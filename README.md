@@ -26,7 +26,8 @@ Next, copy & paste content of `(/javidx9-OneLoneCoder/)OneLoneCoder_olcEngine3D_
 </p>
 
 * Video #2: [Code-It-Yourself! 3D Graphics Engine Part#2 - Normals, Culling, Lighting & Object Files](https://youtu.be/XgMWc6LumG4)
- Copy & paste content of `(/javidx9-OneLoneCoder/)OneLoneCoder_olcEngine3D_Part2.cpp` to the *main cpp file*. Next, copy & paste `(/javidx9-OneLoneCoder/)VideoShip.obj` (which is a **triangular mesh** created by `Blender`) to same folder also.
+
+Copy & paste content of `(/javidx9-OneLoneCoder/)OneLoneCoder_olcEngine3D_Part2.cpp` to the *main cpp file*. Next, copy & paste `(/javidx9-OneLoneCoder/)VideoShip.obj` (which is a **triangular mesh** created by `Blender`) to same folder also.
  
  <p align="center">
   <img src="/images/5.JPG">
@@ -37,3 +38,11 @@ Then *run/start (F5)*. Observer the result.
  <p align="center">
   <img src="/images/6.JPG">
 </p>
+
+* Video #3: [Code-It-Yourself! 3D Graphics Engine Part #3 - Cameras & Clipping](https://youtu.be/HXSuNxpCzdM)
+Same as Video #2, copy & paste content of `(/javidx9-OneLoneCoder/)OneLoneCoder_olcEngine3D_Part3.cpp` to the *main cpp file* and `axis.obj`, `mountains.obj`, `teapot.obj`. Use *W,S,A,D* and *arrow keys* to move around.
+
+ <p align="center">
+  <img src="/images/7.JPG">
+</p>
+
