@@ -7,7 +7,7 @@ Repo for 3D Graphic Engines
 * Original Creator: [javidx9](https://www.youtube.com/c/javidx9) 
 * Video #1: [Code-It-Yourself! 3D Graphics Engine Part #1 - Triangles & Projection](https://youtu.be/ih20l3pJoeU)
 
-Create projects: Create a **C++ Windows Console Application** on **Visual Studio**  
+Create projects: Create a **C++ Windows Console Application** on **Visual Studio** (tested on **VS 2022**) 
 
 <p align="center">
   <img src="/images/1.JPG">
