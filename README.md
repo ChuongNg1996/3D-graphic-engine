@@ -10,5 +10,5 @@ Repo for 3D Graphic Engines
 Create projects: Create a **C++ Windows Console Application** on **Visual Studio**  
 
 <p align="center">
-  <img src="/images/1.jpg">
+  <img src="/images/1.JPG">
 </p>
