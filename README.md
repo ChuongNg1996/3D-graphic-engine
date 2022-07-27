@@ -46,3 +46,33 @@ Same as Video #2, copy & paste content of `(/javidx9-OneLoneCoder/)OneLoneCoder_
   <img src="/images/7.JPG">
 </p>
 
+## Others
+
+### Export to Setup.exe File
+* [Source #1](https://youtu.be/iFsLvNO4HKY):
+
+`Extensions` -> `Manage Extensions` -> Download `Microsoft Visual Studio Installer Projects` -> Close VS and open again to install
+
+ <p align="center">
+  <img src="/images/8.JPG">
+</p>
+
+Right click on `Solution` and `Add` -> `New Project` -> `Setup` or `Setup Wizard` 
+
+ <p align="center">
+  <img src="/images/9.JPG">
+</p>
+
+Check from `10.JPG` to `14.JPG` to create `Primary Output` and add `Shortcut
+
+Also, in `Configuration Manager`, choose `Build`
+
+ <p align="center">
+  <img src="/images/14.JPG">
+</p>
+
+Then `Build` -> Check the `Release` folder of the `Project` inside `Solution`
+
+ <p align="center">
+  <img src="/images/16.JPG">
+</p>
