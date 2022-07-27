@@ -40,7 +40,7 @@ Then *run/start (F5)*. Observer the result.
 </p>
 
 * Video #3: [Code-It-Yourself! 3D Graphics Engine Part #3 - Cameras & Clipping](https://youtu.be/HXSuNxpCzdM)
-Same as Video #2, copy & paste content of `(/javidx9-OneLoneCoder/)OneLoneCoder_olcEngine3D_Part3.cpp` to the *main cpp file* and `axis.obj`, `mountains.obj`, `teapot.obj`. Use *W,S,A,D* and *arrow keys* to move around.
+Same as Video #2, copy & paste content of `(/javidx9-OneLoneCoder/)OneLoneCoder_olcEngine3D_Part3.cpp` to the *main cpp file* and `axis.obj`, `mountains.obj`, `teapot.obj`. To change object: `meshCube.LoadFromObjectFile("<name>.obj");`. Use *W,S,A,D* and *arrow keys* to move around.
 
  <p align="center">
   <img src="/images/7.JPG">
