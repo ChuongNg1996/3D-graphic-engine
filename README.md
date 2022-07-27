@@ -16,7 +16,7 @@ Create projects: Create a **C++ Windows Console Application** on **Visual Studio
 In `Solution Explorer`, right click on `Source Files` -> `Add` -> `New Item` -> Create the header `olcConsoleGameEngine.h` with the same content as `(/javidx9-OneLoneCoder/)olcConsoleGameEngine.h` in this repo. 
 
 <p align="center">
-  < width: 400px height: auto img src="/images/4.JPG">
+  <img width: 400 height: auto src="/images/4.JPG">
 </p>
 
 Next, copy & paste content of `(/javidx9-OneLoneCoder/)OneLoneCoder_olcEngine3D_Part1.cpp` to the *main cpp file* (in `Source Files` also), then *run/start (F5)*. Observer the result.
