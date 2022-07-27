@@ -63,7 +63,12 @@ Right click on `Solution` and `Add` -> `New Project` -> `Setup` or `Setup Wizard
   <img src="/images/9.JPG">
 </p>
 
-Check from `10.JPG` to `14.JPG` to create `Primary Output` and add `Shortcut
+Check from `10.JPG` to `14.JPG` to create `Primary Output` and add `Shortcut`. (I ticked all the options here so that i can link with `.obj` file)
+
+ <p align="center">
+  <img src="/images/17.JPG">
+</p>
+
 
 Also, in `Configuration Manager`, choose `Build`
 
