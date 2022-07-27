@@ -12,3 +12,9 @@ Create projects: Create a **C++ Windows Console Application** on **Visual Studio
 <p align="center">
   <img src="/images/1.JPG">
 </p>
+
+Copy & Paste the header `(/javidx9-OneLoneCoder/)olcConsoleGameEngine.h` to *source folder*. Copy & Paste content of `(/javidx9-OneLoneCoder/)OneLoneCoder_olcEngine3D_Part1.cpp` to the *main cpp file*, then *run/start (F5)*
+
+<p align="center">
+  <img src="/images/3.JPG">
+</p>
