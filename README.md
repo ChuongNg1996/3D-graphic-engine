@@ -81,3 +81,5 @@ Then `Build` -> Check the `Release` folder of the `Project` inside `Solution`
  <p align="center">
   <img src="/images/16.JPG">
 </p>
+
+The result is in `Installations` folder.
